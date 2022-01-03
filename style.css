@@ -1,0 +1,51 @@
+.backgroundColorNav{
+    background-color: rgb(81, 81, 83);
+    
+}
+
+.nav-item {
+    color: white !important;
+ padding: 0px 70px ;
+
+}
+
+.navbar {
+    padding: 10px 80px;
+    position: fixed;
+    width: 100%;
+}
+
+.divlogo {
+    padding: 0px 10px;
+}
+
+.heightfull {
+    height: 100%;
+
+}
+
+.sectionOne {
+    padding-top: 89px;
+    background-color:rgb(213, 213, 218);
+}
+
+.divContentSectionOne {
+    padding: 0px 80px;
+}
+.titleSectionOne {
+    color: rgb(10, 10, 10);
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 30px;
+padding-top: 50px;
+}
+
+.SubTitleSectionOne {
+    color: rgb(10, 10, 10);
+    font-size: 15px;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+
+
+
